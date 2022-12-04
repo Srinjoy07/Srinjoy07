@@ -8,7 +8,7 @@ Happy Reading😊
 
 - 🔭 I’m currently a Student(CSE,2nd Year) >.<
 - 🌱 I’m currently learning JavaScript,Backend-Frontend Web Development :)
-- 👯 I’m looking to collaborate on Cloud Management O_O(Cureently I'm GDSC cloud facilitator in CIEM)
+- 👯 I’m looking to collaborate on Full Stack Development.
 - 🤔 I’m looking for help with internships on AWS!!
 - 💬 Ask me about bugs and errors :).And sometimes about my life too :)
 - 📫 How to reach me: Mail-srinjoyganguly2003@gmail.com and LinkedIN- https://www.linkedin.com/in/srinjoy-ganguly-23ab95248
