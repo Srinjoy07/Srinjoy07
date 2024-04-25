@@ -1,5 +1,7 @@
 ### Hi there 👋
-[batman](https://github.com/Srinjoy07/Srinjoy07/assets/97277466/a4f48349-c4c8-4063-9315-d7ddb1bdf88c)
+
+
+
 <!--
 **Srinjoy07/Srinjoy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
