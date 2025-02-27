@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Student(CSE,4th Year) >.<
 - 🌱 I’m currently learning React,NodeJS for Web Development, basic Machine Learning and Cloud computing as well :)
-- 👯 I’m looking to collaborate on Full Stack Development.
+- 👯 I’m looking to collaborate on Full Stack Java Development with React frontend.
 - 🤔 I’m looking for help with internships on AWS!!
 - 💬 Ask me about bugs and errors!
 <!-- :).And sometimes about my life too :)-->
